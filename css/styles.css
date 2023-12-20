@@ -31,3 +31,41 @@ ul {
   line-height: 1.14;
   letter-spacing: -0.02em;
 }
+
+.header-menu-link:hover,
+.header-menu-link:focus,
+.header-menu-link:active .hero {
+  background-color: aqua;
+}
+.hero-title {
+  color: #fff;
+  font-family: Montserrat;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.21;
+  letter-spacing: -0.03em;
+}
+.hero-buy-btn {
+  color: #fff;
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: normal;
+}
+.hero-made-btn {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: normal;
+}
+.hero-down-btn {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.29;
+  letter-spacing: -0.03em;
+}
+/*------------------------------------------*/
+/*--------------------featyre-----------------*/
+/*------------------------------------------*/
